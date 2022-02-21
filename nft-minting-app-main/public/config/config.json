@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDD08296b31Dcf04F1bBbC9558273fdc0165f0D75",
+  "SCAN_LINK": "https://polygonscan.com/token/0xDD08296b31Dcf04F1bBbC9558273fdc0165f0D75",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Preserved Apes",
+  "SYMBOL": "PAN",
+  "MAX_SUPPLY": 743,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/preserved-apes?",
+  "SHOW_BACKGROUND": true
+}
